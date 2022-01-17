@@ -1,0 +1,16 @@
+/home/juninhsilva14/Documents/SI/cursos/cursoValorReferenciaC#/DemosReference/obj/Debug/net5.0/DemosReference.csproj.AssemblyReference.cache
+/home/juninhsilva14/Documents/SI/cursos/cursoValorReferenciaC#/DemosReference/obj/Debug/net5.0/DemosReference.GeneratedMSBuildEditorConfig.editorconfig
+/home/juninhsilva14/Documents/SI/cursos/cursoValorReferenciaC#/DemosReference/obj/Debug/net5.0/DemosReference.AssemblyInfoInputs.cache
+/home/juninhsilva14/Documents/SI/cursos/cursoValorReferenciaC#/DemosReference/obj/Debug/net5.0/DemosReference.AssemblyInfo.cs
+/home/juninhsilva14/Documents/SI/cursos/cursoValorReferenciaC#/DemosReference/obj/Debug/net5.0/DemosReference.csproj.CoreCompileInputs.cache
+/home/juninhsilva14/Documents/SI/cursos/cursoValorReferenciaC#/DemosReference/bin/Debug/net5.0/DemosReference
+/home/juninhsilva14/Documents/SI/cursos/cursoValorReferenciaC#/DemosReference/bin/Debug/net5.0/DemosReference.deps.json
+/home/juninhsilva14/Documents/SI/cursos/cursoValorReferenciaC#/DemosReference/bin/Debug/net5.0/DemosReference.runtimeconfig.json
+/home/juninhsilva14/Documents/SI/cursos/cursoValorReferenciaC#/DemosReference/bin/Debug/net5.0/DemosReference.runtimeconfig.dev.json
+/home/juninhsilva14/Documents/SI/cursos/cursoValorReferenciaC#/DemosReference/bin/Debug/net5.0/DemosReference.dll
+/home/juninhsilva14/Documents/SI/cursos/cursoValorReferenciaC#/DemosReference/bin/Debug/net5.0/ref/DemosReference.dll
+/home/juninhsilva14/Documents/SI/cursos/cursoValorReferenciaC#/DemosReference/bin/Debug/net5.0/DemosReference.pdb
+/home/juninhsilva14/Documents/SI/cursos/cursoValorReferenciaC#/DemosReference/obj/Debug/net5.0/DemosReference.dll
+/home/juninhsilva14/Documents/SI/cursos/cursoValorReferenciaC#/DemosReference/obj/Debug/net5.0/ref/DemosReference.dll
+/home/juninhsilva14/Documents/SI/cursos/cursoValorReferenciaC#/DemosReference/obj/Debug/net5.0/DemosReference.pdb
+/home/juninhsilva14/Documents/SI/cursos/cursoValorReferenciaC#/DemosReference/obj/Debug/net5.0/DemosReference.genruntimeconfig.cache
